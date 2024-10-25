@@ -1,3 +1,4 @@
+--xqsystem
 module("luci.controller.api.xqsystem", package.seeall)
 
 function index()
